@@ -19,7 +19,7 @@ This allows parameter studies with rigid bodies.
 
 2. Set the "Target Callback" to "After Geometry Changed".
 
-3. Copy the contents of AutoRigid.py into the body of the "after_geometry_changed(...)" function.
+3. Copy the whole content of AutoRigid.py into the body of the "after_geometry_changed(...)" function.
 
 4. Right click on the script in the tree and press 'Connect'.
 
