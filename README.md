@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Workaround for the missing parameter option for the stiffness behaviour of solids in Ansys Mechanical.
+Workaround for the missing parameter option regarding the stiffness behaviour of solids in Ansys Mechanical.
 
 ## How it works:
 
@@ -21,7 +21,7 @@ This allows parameter studies with rigid bodies.
 
 3. Copy the whole content of AutoRigid.py into the body of the "after_geometry_changed(...)" function.
 
-4. Right click on the script in the tree and press 'Connect'.
+4. Right click on the script in the tree and press "Connect".
 
 ## License
 
